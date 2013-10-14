@@ -11,6 +11,7 @@ gem 'railties', '4.0.0'
 group :development, :test do
   gem 'sqlite3', '1.3.8'
   gem 'rspec-rails', '2.11.0'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 # Gems used only for assets and not required
